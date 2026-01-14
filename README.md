@@ -5,6 +5,8 @@ This is a simple mod for the game Hytale that allows you to modify the global ti
 The mod adds a new command: /tickspeed <number>  
 Values above 1.0 speed the game up, values below 1.0 slow the game down (multiplier).
 
+![sunset with tickspeed mod](/preview/sunset.png)
+
 ## Development
 
 Compile mod:
