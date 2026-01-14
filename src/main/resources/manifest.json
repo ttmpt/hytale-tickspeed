@@ -1,0 +1,19 @@
+{
+  "Group": "ttmpt",
+  "Name": "TickSpeed",
+  "Version": "0.1.0",
+  "Description": "Quickly modify the in-game tickspeed.",
+  "Authors": [
+    {
+      "Name": "ttmpt",
+      "Email": "ttmpt@gmx.net"
+    }
+  ],
+  "Main": "net.ttmpt.TickSpeed",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
